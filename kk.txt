@@ -1,1 +1,38 @@
-SlpKY3H35PI0AugQbCPDir96+9bI1BoBC04XceHy
+
+sign_RequestUri=https://api.signdesk.in/api/sandbox/signRequest
+sign_widgetTokenUri=https://api.signdesk.in/api/sandbox/widgetToken
+sign_docketInfoUri=https://signdesk.in:8088/api/sandbox/getDocketInfo
+sign_x_parse_rest_api_key=1fdeefdef93fd6bbef6a8db086892a64
+sign_x_parse_application_id=pods-finserv-private-limited_user_1
+sign_content_type=pdf
+sign_signature_sequence=parallel
+sign_document_to_be_signed=1
+sign_appearance=bottom-right
+signer_ref_id: all
+sign_signer_email=naresh@kumowiz.com
+sign_page_number=all
+sign_signature_type=aadhaar
+sign_sequence=1
+sign_reference_id: test6csdwdsw7_noo126
+
+jsa_aws_access_key_id=AKIAJ4ZEPEDB4ZXCQ4NA
+jsa_aws_secret_key=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
+
+jsa_s3_bucket=prod-1/PODS_QuickLoan
+jsa_s3_region=ap-south-1
+jsa_s3_url=https://s3.amazonaws.com
+jsa_s3_s3DownloadPath=D://s3Files//
+jsa_s3_zipFile=D://s3Files//zipdemo.zip
+
+eMandate_debtor_account_type=Savings
+eMandate_instructed_agent_id_type=IFSC
+eMandate_mandate_type_category_code=L001
+eMandate_x_parse_rest_api_key=8309bc94da64dc9670cdfd4b5cafdd6c
+eMandate_x_parse_application_id=pods-finserv-private-limited_user__eman_1
+eMandate_emandate_request_url=https://api.signdesk.in/api/sandbox/emandateRequest
+eMandate_emandate_widget_token_url=https://api.signdesk.in/api/sandbox/widgetToken
+eMandate_emandate_type=Create
+
+CRIFDEMO=false
+#always rememer no tail or lead "   " spaces leave
+serverURL=/home/pods/server/apache-tomcat-8.5.34/temp/dummyDoc
